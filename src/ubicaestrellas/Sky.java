@@ -100,7 +100,7 @@ public class Sky {
                 for (int j=0;j<=columnas+1;j++){
                     System.out.print(estrellas [i] [j]+"\t");
                 }
-                System.out.print("\n  VERSION 1.0");
+                System.out.print("\n  VERSION 1.1");
             }
     
     
